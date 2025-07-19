@@ -37,7 +37,7 @@ You can search by **country**, **email provider (ESP)**, and **website**, then e
 ### Step 1: Install Python & ChromeDriver
 
 - 📦 [Download Python](https://www.python.org/downloads/) and install (check the box "Add to PATH")
-- 🌐 [Download ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/#stable)
+- 🌐 [Download ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/#stable) it depend on your system
   - Make sure the version matches your Chrome browser
   - Extract the ZIP and **place `chromedriver.exe` inside the project folder**
 
