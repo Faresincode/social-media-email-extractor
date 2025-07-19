@@ -1,6 +1,7 @@
 # social-media-email-extractor
 Streamlit + Selenium app to extract emails from websites using Bing. Export to CSV by targeting domains, ESPs, and countries.
 
+Note: This script was originally written in 2022, so some XPath elements may need to be updated if the target websites (like Bing) have changed their structure.
 # 🌀 Social Media Email Extractor (SMEE)
 
 **SMEE** is a browser-based tool built with **Python**, **Streamlit**, and **Selenium** that allows you to extract verified email addresses from targeted websites using Bing search.
