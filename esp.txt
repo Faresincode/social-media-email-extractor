@@ -1,0 +1,11 @@
+all
+@me.com
+@gmail.com
+@yahoo.com
+@icloud.com
+@outlook.com
+@protonmail.com
+@live.com
+@hotmail.com
+@ymail.com
+@verizon.net

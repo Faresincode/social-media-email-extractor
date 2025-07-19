@@ -1,0 +1,10 @@
+streamlit
+selenium
+webdriver_manager
+random2
+regex
+streamlit
+configparser
+chromedriver
+validate_email
+plotly
